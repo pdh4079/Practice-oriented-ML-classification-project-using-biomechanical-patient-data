@@ -44,8 +44,8 @@
 ## 프로젝트 구조
 
 notebooks/
- └─ main_knn.ipynb
-- main_knn.ipynb: KNN 분류, K 값 실험 및 성능 평가를 포함한 메인 노트북
+└─ main_knn.ipynb # KNN 분류, K 값 실험 및 성능 평가를 포함한 메인 노트북
+
 
 ---
 
